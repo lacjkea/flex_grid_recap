@@ -8,6 +8,7 @@ body {
 
 main {
   /* flex container */
+  background: turquoise;
   max-width: 90%;
   margin: 0 auto;
   height: 400px; /* block-size */
