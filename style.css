@@ -10,6 +10,9 @@ main {
   max-width: 90%;
   margin: 0 auto;
   height: 400px; /* block-size */
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
 }
 
 section {
